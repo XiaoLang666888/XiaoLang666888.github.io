@@ -1,17 +1,18 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Lang Xiao",
+  title: "Undergraduate student of USTC",
+  description: "Portfolio website",
   accentColor: "#1d4ed8",
   social: {
     email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    // linkedin: "https://linkedin.com/in/yourprofile",
+    // twitter: "https://x.com/rfitzio",
+    github: "https://github.com/XiaoLang666888",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I'm currently a undergraduate student majoring in computer science of USTC.",
+  skills: ["C++", "Python"],
+  /*
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
@@ -35,6 +36,8 @@ export const siteConfig = {
       skills: ["React", "Node.js", "AWS"],
     },
   ],
+  */
+  /*
   experience: [
     {
       company: "Tech Company",
@@ -67,26 +70,16 @@ export const siteConfig = {
       ],
     },
   ],
+  */
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "University of Science and Technology of China",
+      degree: "Undergraduate Student",
+      dateRange: "2023-2027",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        
       ],
     },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
-    },
+    
   ],
 };
