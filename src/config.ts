@@ -4,13 +4,13 @@ export const siteConfig = {
   description: "Portfolio website",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
+    email: "2195586450@qq.com",
     // linkedin: "https://linkedin.com/in/yourprofile",
     // twitter: "https://x.com/rfitzio",
     github: "https://github.com/XiaoLang666888",
   },
   aboutMe:
-    "I'm currently a undergraduate student majoring in computer science of USTC.",
+    "I'm currently an undergraduate student majoring in computer science of USTC.",
   skills: ["C++", "Python"],
   /*
   projects: [
